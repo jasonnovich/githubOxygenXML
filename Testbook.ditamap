@@ -5,5 +5,7 @@
         <mainbooktitle></mainbooktitle>
     </booktitle>
     <chapter href="Chapter-1.dita"/>
-    <chapter href="Chapter-2.dita"/>
+    <chapter href="Chapter-2.dita">
+        <topicref href="topic-1.dita"/>
+    </chapter>
 </bookmap>
